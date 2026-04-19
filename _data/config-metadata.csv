@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
+objectid,ID,,,,
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+name_2,Alternative Name,,,,
+find_address, Standardized street address,,,,
+build_name, Building name,,,,
+room, Room (if applicable),,,,
+early_date,Earliest date of creation,,,,
+late_date,Latest date of creation,,,,
+style, Style,,,,
+identifier,Collection Identifier,,,,
+still_exist2, Still exist?,,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
+themes, Themes,,,,
+display_template,Type,,,,
+rights, Image rights,,,,
 rightsstatement,,,,DCTERMS.rights,license
