@@ -13,7 +13,7 @@ featured-image-alt-text: # add alt text if using url for featured-image (objecti
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: center # Default is center
+home-banner-image-position: left # Default is center
 
 
 ##########
@@ -41,9 +41,9 @@ subjects-stopwords: # set of subjects separated by ; that will be removed from d
 ##########
 # LOCATIONS PAGE
 #
-locations-fields: location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-locations-min: 1 # min size for subject cloud, too many terms = slow load time!
-locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+#locations-fields: location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+#locations-min: 1 # min size for subject cloud, too many terms = slow load time!
+#locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # MAP PAGE
