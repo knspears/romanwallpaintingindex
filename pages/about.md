@@ -18,6 +18,12 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## About the RWPI
+
+The Roman Wall Painting Index (RWPI) is a digital collection of ancient Roman wall painting from the Bay of Naples. Most paintings date from the second century BCE to the first century CE, with a hard cut off at 79 CE. These paintings are amongst the few surviving examples from antiquity, preserved only due to the destruction of cities such as Pompeii, Herculaneum, and Stabiae by the eruption of Mount Vesuvius in 79 CE.
+
+Historically, Roman wall painting has been a very spatially-organized field. Volumes such as 'Pompei: Pitture e Mosaici' have organized paintings by find spot, grouping together frescoes from the same buildings, insulae, and regi. The RWPI seeks to provide a space for researchers to examine Roman wall painting not just through spatial realtion, but through subject and theme.
+
 ## About CollectionBuilder CSV
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
