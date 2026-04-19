@@ -5,9 +5,9 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image: https://upload.wikimedia.org/wikipedia/commons/9/93/Pinakes_with_Dionysian_scenes%2C_from_Herculaneum%2C_ca._60-80_AD%2C_Empire_of_colour._From_Pompeii_to_Southern_Gaul%2C_Musée_Saint-Raymond_Toulouse_%2815657480634%29.jpg
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
+position: top
 # major heading to display over featured image
 heading: About the Collection
 # paragraph text below heading in featured image
@@ -27,7 +27,4 @@ Historically, Roman wall painting has been a very spatially-organized field. Vol
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
