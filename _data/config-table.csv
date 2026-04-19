@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
+early_date,Earliest date
+late_date,Latest date
+identifier,Collection
 description,Description
 subject,Subjects

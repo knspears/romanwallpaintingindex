@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,ID,,,,
 title,Title,,,DCTERMS.title,headline
 name_2,Alternative Name,,,,
+description,Description,,,DCTERMS.description,description
 find_address, Standardized street address,,,,
 build_name, Building name,,,,
 room, Room (if applicable),,,,
@@ -10,7 +11,6 @@ late_date,Latest date of creation,,,,
 style, Style,,,,
 identifier,Collection Identifier,,,,
 still_exist2, Still exist?,,,,
-description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 themes, Themes,,,,
 display_template,Type,,,,
