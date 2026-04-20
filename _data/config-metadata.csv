@@ -1,5 +1,4 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,ID,,,,
 title,Title,,,DCTERMS.title,headline
 name_2,Alternative Name,,,,
 description,Description,,,DCTERMS.description,description
@@ -13,6 +12,7 @@ identifier,Collection Identifier,,,,
 still_exist2, Still exist?,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 themes, Themes,,,,
+objectid,ID,,,,
 display_template,Type,,,,
 rights, Image rights,,,,
 rightsstatement,,,,DCTERMS.rights,license
