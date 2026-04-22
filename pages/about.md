@@ -26,9 +26,15 @@ Historically, Roman wall painting has been a very spatially-organized field. Vol
 
 This project was created by Kathryn Spears for the final project of INLS 749, 'Art and Visual Information Management' at UNC Chapel Hill (Spring 2026). As of April 2026 it remains a work in progress. 
 
+## Notes on the RWPI
+
+The RWPI uses a series of controlled vocabularies derived from the Library of Congress (LOC) Name Authorities for its search and subjects feature. In most cases, the LOC prioritizes the Greek versions of Greco-Roman mythological figures, especially gods and goddesses. That said, the LOC also typically prefers the Roman spellings of those Greek names, resulting in the choice to use 'Heracles' instead of 'Herakles' (the fully Greek version) or 'Hercules' (the more common Roman version); or the choice to use 'Dionysus' instead of 'Dionysos' (Greek spelling) or 'Bacchus' (Romanization). 
+
 ## Contact
 
 Contact information: 
 Kathryn Spears, knspears@ad.unc.edu
+
 Dept. of Art & Art History, School of Information & Library Science
+
 University of North Carolina at Chapel Hill
