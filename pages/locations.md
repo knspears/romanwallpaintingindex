@@ -4,7 +4,7 @@ layout: cloud
 permalink: /locations.html
 # Default locations page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.locations-fields"
-cloud-fields: site.data.theme.build_name-fields
+cloud-fields: build_name
 ---
 
 ## Browse Locations
