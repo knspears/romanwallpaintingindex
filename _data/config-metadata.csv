@@ -11,7 +11,7 @@ style, Style,,,,
 identifier,Collection Identifier,,,,
 still_exist2, Still exist?,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
-themes, Themes,,,,
+themes,Themes,,,,
 objectid,ID,,,,
 display_template,Type,,,,
 rights, Image rights,,,,

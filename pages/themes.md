@@ -5,7 +5,6 @@ permalink: /themes.html
 cloud-fields: themes
 cloud-min: 1
 cloud-stopwords:
-cloud-fields: themes
 ---
 
 ## Browse themes
