@@ -34,7 +34,7 @@ A complete controlled vocabulary used for this project can be accessed here: htt
 
 <a href="https://docs.google.com/spreadsheets/d/1weH41vGRPsxXxVp-xP9y7ZNwCH3uMr5waerq21ffKis/edit?usp=sharing">
   <button>Controlled vocabulary</button>
-</a>
+</a> 
 
 
 ## Contact
