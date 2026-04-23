@@ -2,7 +2,7 @@
 title: Themes
 layout: cloud
 permalink: /themes.html
-cloud-fields: site.data.theme.locations-fields
+cloud-fields: site.data.theme.themes-fields
 cloud-min: 1
 cloud-stopwords:
 ---
