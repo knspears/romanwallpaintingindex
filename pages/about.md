@@ -32,6 +32,11 @@ The RWPI uses a series of controlled vocabularies derived from the Library of Co
 
 A complete controlled vocabulary used for this project can be accessed here: https://docs.google.com/spreadsheets/d/1weH41vGRPsxXxVp-xP9y7ZNwCH3uMr5waerq21ffKis/edit?usp=sharing. It is updated as the RWPI is updated.
 
+<a href="https://docs.google.com/spreadsheets/d/1weH41vGRPsxXxVp-xP9y7ZNwCH3uMr5waerq21ffKis/edit?usp=sharing">
+  <button>Controlled vocabulary</button>
+</a>
+
+
 ## Contact
 
 Contact information: 
