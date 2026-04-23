@@ -30,7 +30,7 @@ This project was created by Kathryn Spears for the final project of INLS 749, 'A
 
 The RWPI uses a series of controlled vocabularies derived from the Library of Congress (LOC) Name Authorities for its search and subjects feature. In most cases, the LOC prioritizes the Greek versions of Greco-Roman mythological figures, especially gods and goddesses. That said, the LOC also typically prefers the Roman spellings of those Greek names, resulting in the choice to use 'Heracles' instead of 'Herakles' (the fully Greek version) or 'Hercules' (the more common Roman version); or the choice to use 'Dionysus' instead of 'Dionysos' (Greek spelling) or 'Bacchus' (Romanization). 
 
-A complete controlled vocabulary used for this project can be accessed here: https://docs.google.com/spreadsheets/d/1weH41vGRPsxXxVp-xP9y7ZNwCH3uMr5waerq21ffKis/edit?usp=sharing. It is updated as the RWPI is updated.
+A complete controlled vocabulary used for this project can be accessed at the button below. It is updated as the RWPI is updated.
 
 <a href="https://docs.google.com/spreadsheets/d/1weH41vGRPsxXxVp-xP9y7ZNwCH3uMr5waerq21ffKis/edit?usp=sharing">
   <button>Controlled vocabulary</button>
