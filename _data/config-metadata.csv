@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 name_2,Alternative Name,,,,
 description,Description,,,DCTERMS.description,description
+city, City or Town,,,,
 find_address, Standardized street address,,,,
 build_name, Building name,,,,
 room, Room (if applicable),,,,
